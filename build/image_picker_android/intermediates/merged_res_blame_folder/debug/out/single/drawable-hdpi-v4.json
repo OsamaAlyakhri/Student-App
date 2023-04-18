@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\jalfa\\StudioProjects\\stdsmobile\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\jalfa\\.gradle\\caches\\transforms-2\\files-2.1\\73b4a43adae70d3047ab6ca1ae79dab6\\core-1.8.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jalfa\\StudioProjects\\stdsmobile\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\jalfa\\.gradle\\caches\\transforms-2\\files-2.1\\73b4a43adae70d3047ab6ca1ae79dab6\\core-1.8.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\jalfa\\StudioProjects\\stdsmobile\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\jalfa\\.gradle\\caches\\transforms-2\\files-2.1\\73b4a43adae70d3047ab6ca1ae79dab6\\core-1.8.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jalfa\\StudioProjects\\stdsmobile\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\jalfa\\.gradle\\caches\\transforms-2\\files-2.1\\73b4a43adae70d3047ab6ca1ae79dab6\\core-1.8.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jalfa\\StudioProjects\\stdsmobile\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\jalfa\\.gradle\\caches\\transforms-2\\files-2.1\\73b4a43adae70d3047ab6ca1ae79dab6\\core-1.8.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    }
+]

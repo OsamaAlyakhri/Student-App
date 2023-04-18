@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "2634736758",
+    "project_id": "hellostudent-3f095",
+    "storage_bucket": "hellostudent-3f095.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2634736758:android:1ea58ec134bb95dd3a6b57",
+        "android_client_info": {
+          "package_name": "com.fasttechno.hellosenan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2634736758-laabohmeegha429f9toir7gfdpimu8mp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fasttechno.hellosenan",
+            "certificate_hash": "239db8901bfd74f7ecc3ff9eb8b4a30c1a679cef"
+          }
+        },
+        {
+          "client_id": "2634736758-868l5o6vtggf3nedjg83dq2sr586mgt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtiSkZgjrm-4enWW4SjoQTSHJDPODc6vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2634736758-868l5o6vtggf3nedjg83dq2sr586mgt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

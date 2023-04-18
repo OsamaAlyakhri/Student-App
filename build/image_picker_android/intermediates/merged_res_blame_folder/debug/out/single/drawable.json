@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\jalfa\\StudioProjects\\stdsmobile\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\jalfa\\.gradle\\caches\\transforms-2\\files-2.1\\73b4a43adae70d3047ab6ca1ae79dab6\\core-1.8.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jalfa\\StudioProjects\\stdsmobile\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\jalfa\\.gradle\\caches\\transforms-2\\files-2.1\\73b4a43adae70d3047ab6ca1ae79dab6\\core-1.8.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jalfa\\StudioProjects\\stdsmobile\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\jalfa\\.gradle\\caches\\transforms-2\\files-2.1\\73b4a43adae70d3047ab6ca1ae79dab6\\core-1.8.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\jalfa\\StudioProjects\\stdsmobile\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\jalfa\\.gradle\\caches\\transforms-2\\files-2.1\\73b4a43adae70d3047ab6ca1ae79dab6\\core-1.8.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]
